@@ -1,5 +1,8 @@
 _repo: Henry-V_2253
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -16,6 +19,8 @@ description: New National Theatre, W.H. Rapley, manager, T. Arthur Smith, treasu
   V." Manager Mr. A.M. Palmer, stage manager Mr. Thomas F. Graham. Scenery by Richard
   Marston, costumes worn by Mr. Mansfield as Henry V, by Maurice Hermann, other costumes
   by Arnold Constable & Co, Van Horn & Sons, Madam Simon and Mrs. Helen Windsor
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2253#Henry-V
 gutenberg_issued: '2000-07-01'
 gutenberg_type: Text
 identifiers:
